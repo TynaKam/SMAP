@@ -1,0 +1,2 @@
+# SMAP
+Semestrální projekt
